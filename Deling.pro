@@ -24,6 +24,7 @@ HEADERS += MainWindow.h \
     PreviewWidget.h \
     QLZ4.h \
     ScriptExporter.h \
+    game/worldmap/WmEncounter.h \
     parameters.h \
     Data.h \
     Config.h \
@@ -124,6 +125,7 @@ SOURCES += MainWindow.cpp \
     PreviewWidget.cpp \
     QLZ4.cpp \
     ScriptExporter.cpp \
+    game/worldmap/WmEncounter.cpp \
     main.cpp \
     Data.cpp \
     Config.cpp \
