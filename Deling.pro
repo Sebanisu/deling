@@ -23,6 +23,9 @@ HEADERS += MainWindow.h \
     BackgroundExporter.h \
     EncounterExporter.h \
     PreviewWidget.h \
+    game/worldmap/TexlFile.h \
+    game/worldmap/WmArchive.h \
+    game/worldmap/WmEncounter.h \
     QLZ4.h \
     ScriptExporter.h \
     game/worldmap/WmEncounter.h \
@@ -125,6 +128,9 @@ SOURCES += MainWindow.cpp \
     BackgroundExporter.cpp \
     EncounterExporter.cpp \
     PreviewWidget.cpp \
+    game/worldmap/TexlFile.cpp \
+    game/worldmap/WmArchive.cpp \
+    game/worldmap/WmEncounter.cpp \
     QLZ4.cpp \
     ScriptExporter.cpp \
     game/worldmap/WmEncounter.cpp \
